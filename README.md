@@ -19,9 +19,7 @@ The original study found that large language models refuse requests from explici
 
 ## Live Dashboard
 
-🔗 **[View the interactive dashboard](https://yourusername.github.io/say-my-name-llm-bias)**
-
-> Replace the URL above with your GitHub Pages link after deployment.
+🔗 **[View the interactive dashboard](https://DrMarioDeSean411-arch.github.io/say-my-name-llm-bias)**
 
 ---
 
@@ -85,7 +83,7 @@ If you use this dashboard or the validation findings in your own work:
 ```
 Booker, M. D. (2026). Say my name: How declaring Black identity triggers the safety
 filters that writing Black does not [Secondary validation dashboard]. GitHub.
-https://github.com/yourusername/say-my-name-llm-bias
+https://github.com/DrMarioDeSean411-arch/say-my-name-llm-bias
 ```
 
 ---
