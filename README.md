@@ -19,7 +19,7 @@ The original study found that large language models refuse requests from explici
 
 ## Live Dashboard
 
-🔗 **[View the interactive dashboard](https://DrMarioDeSean411-arch.github.io/say-my-name-llm-bias)**
+🔗 **[View the interactive dashboard](https://drmariadesean411-arch.github.io/say-my-name-llm-bias/llm_bias_dashboard.html)**
 
 ---
 
